@@ -1,0 +1,7 @@
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_WhilePII\bin\Debug\Aula06_WhilePII.exe.config
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_WhilePII\bin\Debug\Aula06_WhilePII.exe
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_WhilePII\bin\Debug\Aula06_WhilePII.pdb
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_WhilePII\obj\Debug\Aula06_WhilePII.csprojAssemblyReference.cache
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_WhilePII\obj\Debug\Aula06_WhilePII.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_WhilePII\obj\Debug\Aula06_WhilePII.exe
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_WhilePII\obj\Debug\Aula06_WhilePII.pdb

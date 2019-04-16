@@ -1,0 +1,7 @@
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_While\bin\Debug\Aula06_While.exe.config
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_While\bin\Debug\Aula06_While.exe
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_While\bin\Debug\Aula06_While.pdb
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_While\obj\Debug\Aula06_While.csprojAssemblyReference.cache
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_While\obj\Debug\Aula06_While.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_While\obj\Debug\Aula06_While.exe
+D:\ANTT\Projects\CShardAlura\CSharpDotNet\Aula06_While\obj\Debug\Aula06_While.pdb
