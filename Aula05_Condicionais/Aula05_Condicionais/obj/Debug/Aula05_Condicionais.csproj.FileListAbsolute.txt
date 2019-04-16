@@ -1,0 +1,6 @@
+D:\ANTT\Projects\Aula05_Condicionais\Aula05_Condicionais\bin\Debug\Aula05_Condicionais.exe.config
+D:\ANTT\Projects\Aula05_Condicionais\Aula05_Condicionais\obj\Debug\Aula05_Condicionais.csprojResolveAssemblyReference.cache
+D:\ANTT\Projects\Aula05_Condicionais\Aula05_Condicionais\bin\Debug\Aula05_Condicionais.exe
+D:\ANTT\Projects\Aula05_Condicionais\Aula05_Condicionais\bin\Debug\Aula05_Condicionais.pdb
+D:\ANTT\Projects\Aula05_Condicionais\Aula05_Condicionais\obj\Debug\Aula05_Condicionais.exe
+D:\ANTT\Projects\Aula05_Condicionais\Aula05_Condicionais\obj\Debug\Aula05_Condicionais.pdb
