@@ -1,0 +1,7 @@
+D:\ANTT\Projects\CShardAlura\Aula05_Condicionais\Aula05_Switch\bin\Debug\Aula05_Switch.exe.config
+D:\ANTT\Projects\CShardAlura\Aula05_Condicionais\Aula05_Switch\bin\Debug\Aula05_Switch.exe
+D:\ANTT\Projects\CShardAlura\Aula05_Condicionais\Aula05_Switch\bin\Debug\Aula05_Switch.pdb
+D:\ANTT\Projects\CShardAlura\Aula05_Condicionais\Aula05_Switch\obj\Debug\Aula05_Switch.csprojAssemblyReference.cache
+D:\ANTT\Projects\CShardAlura\Aula05_Condicionais\Aula05_Switch\obj\Debug\Aula05_Switch.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\CShardAlura\Aula05_Condicionais\Aula05_Switch\obj\Debug\Aula05_Switch.exe
+D:\ANTT\Projects\CShardAlura\Aula05_Condicionais\Aula05_Switch\obj\Debug\Aula05_Switch.pdb
